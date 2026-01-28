@@ -22,16 +22,9 @@ Team-built AI/CV under pressure.
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6B35?style=for-the-badge&logo=google&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-007CBF?style=for-the-badge&logo=mapbox&logoColor=white)
 
-- [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML forecasts 
+- [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML forecasts
 - [UWO-TSI Website](https://github.com/UWO-TSI/tsi-website): Team site [Live](https://uwotsicom.vercel.app)
 
 ## 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erichout00&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erichout00&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
-
-<div align="center">
-  ![Snake](https://github.com/erichout00/erichout00/blob/output/github-contribution-grid-snake-dark.svg)
-  <br><img src="https://komarev.com/ghpvc/?username=erichout00&style=flat-square&color=blue" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ehout20&show_icons=true&theme=radical&hide_bo
