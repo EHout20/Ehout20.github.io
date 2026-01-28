@@ -27,4 +27,11 @@ Team-built AI/CV under pressure.
 
 ## 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehout20&show_icons=true&theme=radical&hide_bo
+  <img src="https://github-readme-stats.vercel.app/api?username=ehout20&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehout20&layout=compact&theme=radical&hide_border=true" width="40%" />
+</div>
+
+<div align="center">
+  ![Snake](https://github.com/ehout20/ehout20/blob/output/github-contribution-grid-snake-dark.svg)
+  <br><img src="https://komarev.com/ghpvc/?username=ehout20&style=flat-square&color=blue" />
+</div>
