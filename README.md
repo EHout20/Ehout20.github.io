@@ -24,8 +24,8 @@ Team-built AI/CV under pressure.
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6B35?style=for-the-badge&logo=google&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-007CBF?style=for-the-badge&logo=mapbox&logoColor=white)
 
-- [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML forecasts
-- [UWO-TSI Website](https://github.com/UWO-TSI/tsi-website): Team site [Live](https://uwotsicom.vercel.app)
+[Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML forecasts
+[UWO-TSI Website](https://github.com/UWO-TSI/tsi-website): Team site [Live](https://uwotsicom.vercel.app)
 
 <img src="https://komarev.com/ghpvc/?username=ehout20&style=flat-square&color=blue" />
 
