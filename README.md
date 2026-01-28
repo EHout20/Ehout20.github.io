@@ -1,4 +1,10 @@
 <div align="center">
+  ## 📊
+  <img src="https://github-readme-stats.vercel.app/api?username=ehout20&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehout20&layout=compact&theme=radical&hide_border=true" width="40%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD6F6&center=true&vCenter=true&width=435&lines=Eric+Hout;CS+%40+Western+U;Hackathon+Projects+%7C+Team+Builder;Real-time+AI+%26+Full-Stack" alt="Typing SVG" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6CD6F6&height=140&section=header" />
 </div>
@@ -25,13 +31,6 @@ Team-built AI/CV under pressure.
 - [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML forecasts
 - [UWO-TSI Website](https://github.com/UWO-TSI/tsi-website): Team site [Live](https://uwotsicom.vercel.app)
 
-## 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehout20&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehout20&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
-
-<div align="center">
-  ![Snake](https://github.com/ehout20/ehout20/blob/output/github-contribution-grid-snake-dark.svg)
-  <br><img src="https://komarev.com/ghpvc/?username=ehout20&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=ehout20&style=flat-square&color=blue" />
 </div>
