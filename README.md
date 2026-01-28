@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD6F6&center=true&vCenter=true&width=435&lines=Eric+Hout;CS+%40+University+of+Western+Ontario;Hackathon+MVPs+%7C+Team+Builder;Real-time+AI+%26+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CD6F6&center=true&vCenter=true&width=435&lines=Eric+Hout;CS+%40+Western+U;Hackathon+Projects+%7C+Team+Builder;Real-time+AI+%26+Full-Stack" alt="Typing SVG" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6CD6F6&height=140&section=header" />
 </div>
 
-## 🏆 Hackathon MVPs (Team Builds, 24-48hr Sprints)
-Shipped full-stack AI/CV/ML under pressure.
+## 🏆 Hackathon Projects (Shipped in 24-48hrs)
+Team-built full-stack AI/CV/ML under pressure.
 
-| Project | Hack/Win | Tech | Video/Repo |
-|---------|----------|------|------------|
+| Project | Hack/Win | Tech | Video/Repo/Demo |
+|---------|----------|------|-----------------|
 | [Let's Hold it!](https://devpost.com/software/hole-in-the-wall-woi4z3) | Pose game | FastAPI, MediaPipe, Next.js, WebSockets | [Watch](https://devpost.com/software/hole-in-the-wall-woi4z3#video) |
 | [Apex F1 Copilot](https://devpost.com/software/real-time-strategy-copilot) | F1 dashboard | React, Python, Gemini | [Watch](https://devpost.com/software/real-time-strategy-copilot#video) |
 | [Mine Watch](https://devpost.com/software/mine-watch) | Mining viz | React, Mapbox | [Watch](https://devpost.com/software/mine-watch#video) |
-| [TSI Website](https://github.com/UWO-TSI/tsi-website) | Team uni site [attached_file:1] | Web Dev (likely React/TS) | [Repo](https://github.com/UWO-TSI/tsi-website) |
+| [UWO-TSI Website](https://github.com/UWO-TSI/tsi-website) | Team uni society site | Web Dev, Vercel | [Live Demo](https://uwotsicom.vercel.app) [Repo](https://github.com/UWO-TSI/tsi-website) |
 | [Bio-Pilot](https://github.com/alanxue1/bio-pilot) | Bio/ML | Python/ML | [Repo](https://github.com/alanxue1/bio-pilot) |
 
 **Full Portfolio**: [Devpost/erichout00](https://devpost.com/erichout00)
@@ -23,7 +23,7 @@ Shipped full-stack AI/CV/ML under pressure.
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6B35?style=for-the-badge&logo=google&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-007CBF?style=for-the-badge&logo=mapbox&logoColor=white)
 
-- [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML + fundamental analysis forecasts [attached_file:2]
+- [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML forecasts [attached_file:2]
 
 ## 📊
 <div align="center">
