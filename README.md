@@ -4,14 +4,13 @@
 </div>
 
 ## 🏆 Hackathon Projects (Shipped in 24-48hrs)
-Team-built full-stack AI/CV/ML under pressure.
+Team-built AI/CV under pressure.
 
-| Project | Hack/Win | Tech | Video/Repo/Demo |
-|---------|----------|------|-----------------|
-| [Let's Hold it!](https://devpost.com/software/hole-in-the-wall-woi4z3) | Pose game | FastAPI, MediaPipe, Next.js, WebSockets | [Watch](https://devpost.com/software/hole-in-the-wall-woi4z3#video) |
+| Project | Hack/Win | Tech | Video/Repo |
+|---------|----------|------|------------|
+| [Let's Hold it!](https://devpost.com/software/hole-in-the-wall-woi4z3) | Pose game | FastAPI, MediaPipe, Next.js | [Watch](https://devpost.com/software/hole-in-the-wall-woi4z3#video) |
 | [Apex F1 Copilot](https://devpost.com/software/real-time-strategy-copilot) | F1 dashboard | React, Python, Gemini | [Watch](https://devpost.com/software/real-time-strategy-copilot#video) |
 | [Mine Watch](https://devpost.com/software/mine-watch) | Mining viz | React, Mapbox | [Watch](https://devpost.com/software/mine-watch#video) |
-| [UWO-TSI Website](https://github.com/UWO-TSI/tsi-website) | Team uni society site | Web Dev, Vercel | [Live Demo](https://uwotsicom.vercel.app) [Repo](https://github.com/UWO-TSI/tsi-website) |
 | [Bio-Pilot](https://github.com/alanxue1/bio-pilot) | Bio/ML | Python/ML | [Repo](https://github.com/alanxue1/bio-pilot) |
 
 **Full Portfolio**: [Devpost/erichout00](https://devpost.com/erichout00)
@@ -24,6 +23,7 @@ Team-built full-stack AI/CV/ML under pressure.
 ![Mapbox](https://img.shields.io/badge/Mapbox-007CBF?style=for-the-badge&logo=mapbox&logoColor=white)
 
 - [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction): ML forecasts [attached_file:2]
+- [UWO-TSI Website](https://github.com/UWO-TSI/tsi-website): Team site [Live](https://uwotsicom.vercel.app) [attached_file:1]
 
 ## 📊
 <div align="center">
